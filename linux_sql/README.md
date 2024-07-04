@@ -1,7 +1,7 @@
 tree
 .
 ├── README.md
-├── assets    # use this to store images for your README.md
+├── assets    
 ├── scripts
 │   ├── host_info.sh
 │   ├── host_usage.sh
