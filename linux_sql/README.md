@@ -25,10 +25,10 @@ crontab -e
 # Implementation
 
 
-## Architecture
+# Architecture
 The architecture consists of three Linux hosts, each running a monitoring agent that collects data and sends it to a central PostgreSQL database hosted in a Docker container. Below is a diagram representing this setup:
 
-## Scripts
+# Scripts
 psql_docker.sh
 Used to manage the PostgreSQL Docker container.
 
