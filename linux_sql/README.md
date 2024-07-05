@@ -81,7 +81,7 @@ host_info Table
 | Column |	Type |	Description |
 | ------ | ----- | ------------ |
 | id |	SERIAL |	Unique primary key, auto-incremented |
-| hostname	| VARCHAR |	Name of the host machine |
+| hostname	| VARCHAR |	Name of the host machine - Rocky Linux |
 | cpu_number |	INT	| Number of CPU cores |
 | cpu_architecture | VARCHAR	| Architecture of the CPU |
 | cpu_model	| VARCHAR	| Model name of the CPU |
