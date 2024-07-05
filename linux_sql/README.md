@@ -76,7 +76,29 @@ Contains SQL queries to resolve specific business problems, such as analyzing av
 
 # Database Modeling
 
+host_info Table
+| Column |	Type |	Description |
+| ------ | ----- | ------------ |
+| id |	SERIAL |	Unique primary key, auto-incremented |
+| hostname	| VARCHAR |	Name of the host machine |
+| cpu_number |	INT	| Number of CPU cores |
+| cpu_architecture | VARCHAR	| Architecture of the CPU |
+| cpu_model	| VARCHAR	| Model name of the CPU |
+| cpu_mhz	| FLOAT	| Clock speed of the CPU in MHz |
+| l2_cache |	INT	| Size of the L2 cache in KB |
+| timestamp	| TIMESTAMP	| Time when the hardware information was collected |
+| total_mem |	INT	| Total available memory in MB |
 
+host_usage Table
+| Column	| Type	| Description |
+| ------- | ----- | ----------- |
+|timestamp	| TIMESTAMP	| Time when the usage data was collected |
+| host_id	| INT	| Foreign key referring to the id in the host_info table |
+| memory_free	| INT	| Amount of free memory in MB |
+| cpu_idle	| FLOAT	| Percentage of time the CPU is idle |
+| cpu_kernel	| FLOAT	| Percentage of time the CPU spends executing kernel code |
+| disk_io	| INT	| Number of disk I/O operations per second|
+| disk_available	| INT	| Available disk space in MB |
 
 # Test
 Each script was tested to ensure it functions correctly:
