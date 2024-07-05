@@ -72,6 +72,7 @@ crontab -e
 
 * * * * * bash <absolute path to host_usage.sh> "localhost" 5432 "host_agent" <db_username> <db_password> &> /tmp/host_usage.log
 queries.sql
+
 Contains SQL queries to resolve specific business problems, such as analyzing average CPU usage, identifying memory bottlenecks, and monitoring disk space trends.
 
 # Database Modeling
