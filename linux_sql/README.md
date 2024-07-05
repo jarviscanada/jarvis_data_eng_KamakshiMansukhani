@@ -35,7 +35,7 @@ After the environment setup, I focused on database design, creating tables to st
 Once the scripts were developed, I conducted thorough testing to ensure they functioned correctly. This included verifying that the host_info.sh script accurately collected hardware information and that the host_usage.sh script correctly logged resource usage data at the specified intervals. After confirming the scripts' functionality, I configured crontab to schedule the host_usage.sh script to run every minute, ensuring continuous monitoring. Finally, with a fully functional and tested application, I deployed the system into the production environment. This structured approach following the SDLC model ensured a reliable and efficient development process, resulting in an effective Linux Cluster Monitoring Agent.
 
 # Architecture
-The architecture consists of three Linux hosts, each running a monitoring agent that collects data and sends it to a central PostgreSQL database hosted in a Docker container. Below is a diagram representing this setup:
+The architecture consists of three Linux hosts, each running a monitoring agent that collects data and sends it to a central PostgreSQL database hosted in a Docker container. 
 
 # Scripts
 - psql_docker.sh
