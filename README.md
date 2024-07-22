@@ -49,6 +49,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KamakshiMa
 ## Miscellaneous
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
 - Data Analytics by LinkedIn
-- Cavas Artist
+- Canvas Artist
 - Community Volunteer, Independent Contractor for healthcare
 - Student Volunteer, The Earth Saviour's Foundation
