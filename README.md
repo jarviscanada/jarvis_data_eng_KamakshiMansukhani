@@ -1,64 +1,54 @@
-# John Smith . Jarvis Consulting
+# Kamakshi Mansukhani . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+I am a seasoned IT professional with a Bachelor's degree in Computer Science and over six years of experience in the industry. Throughout my career, I have successfully completed more than 20 software development projects and served as a Systems Engineer at Infosys, where I honed my ability to collaborate with dedicated project managers, problem solvers, and junior staff to meet and exceed project requirements.
+I pride myself on being a problem solver with a keen focus on achieving excellence through effective teamwork and communication. My technical expertise spans across database management, and I consistently challenge myself to stay abreast of emerging technologies. In addition to my technical skills, I have earned postgraduate certificates in Applied Artificial Intelligence and Business Analytics, further enhancing my analytical and business acumen. My experience as a Business Systems Analyst at various esteemed organizations has equipped me with a comprehensive understanding of both technical and business domains.
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Linux/Bash, RDBMS/SQL, Agile/Scrum, Tableau
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** SQL, Python, Agile/ Scrum, Tableau, Stakeholder Analysis
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** Java, Deep Learning, Machine Learning, Data Modelling, Business Intelligence, Power BI
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani](https://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani/tree/masterhttps://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani/tree/main/linux_sql)]: The Linux Cluster Monitoring Agent (LCMA) is designed to monitor and log resource usage across a cluster of Linux nodes. This system collects hardware and usage data, such as CPU, memory, and disk statistics, and stores it in a PostgreSQL database running in a Docker container. The primary users of this system are system administrators and the Linux Cluster Administration (LCA) team, who can leverage this data to analyze system performance and make informed decisions about resource allocation. The technologies used in this project include Bash scripting, Docker, PostgreSQL, and Git.
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Product Development Exchange Capstone Project**: •Conducted in-depth analysis to derive meaningful insights using existing organizational data, employing advanced data visualization tools, resulting in a 26% improvement in strategic decision accuracy. •Used a collaborative and innovative approach in utilizing data analysis, data reporting, and data visualization techniques using Tableau, Power BI and SQL Queries to enhance user experiences and drew informed conclusions, facilitating a 20% increase in project efficiency and timely decision making.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Covid 19 data analysis using big data techniques**: Created a big data project using MongoDB, Python, SSIS  and performed sentiment analysis on twitter data. Using powerBI, Covid 19 graphs were also created for determining the statistics of the disease in Canadian regions.
+
+**Weather Prediction Analysis**: Predicted weather using image classification models along with neural network classification. • On the basis of data in the previous 10 years, the weather in the upcoming 10 years was predicted. • The purpose of this project was to create a model that could determine the weather complications and if any major setbacks will be seen in the near future. • Technologies and Models used- MLP, GRU, LSTM, Neural networks, Numpy, TensorFlow, Keras
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Business Systems Analyst, Jarvis (2024-present)**: At Jarvis Consulting, I have been entrusted with the responsibility of implementing SQL methodologies in various business analysis projects. My role involves the extensive use of SQL for data analysis and reporting, ensuring accurate and efficient data management. Additionally, I utilize Linux command-line interface (CLI) tools in conjunction with Docker and PostgreSQL to streamline database operations and optimize project workflows. This position has also provided me with the opportunity to enhance my soft skills, including effective communication, teamwork, and problem-solving, further contributing to my professional growth and success in a dynamic consulting environment.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Media Search Analyst, Telus International (2023-2024)**: • Developed detailed functional specifications, ensuring alignment with project objectives. • Implemented SQL queries resulting in a 30% reduction in data processing time for various projects. • Identified and mitigated risks and issues, acting as a subject matter expert for daily operations, reducing project delays by 20%. • Collaborated with cross-functional teams to drive project success, including project managers, developers, and stakeholders. • Translated complex business requirements into detailed functional design specifications by acting as a bridge between business users and technology teams. • Skills used: SQL, Agile, Java, Python, MS Excel, ETL, Stakeholder Analysis, Use Case Analysis, Requirement Analysis
+
+**Business Systems Analyst, Infosys (Mar 2021- Sep 2021)**: • Analyzed customer requirements and technical feasibility, contributing to a 30% improvement in solution delivery time. • Provided support to the QA team, resulting in a 20% reduction in data-related defects during testing phases. • Effectively communicated technical design details to non-technical stakeholders, ensuring alignment with project requirements and knowledge is codified, monitored, tracked and managed. • Prepared and documented comprehensive Functional and Technical Design specifications following client standards and methodologies. • Achieved one of the best ratings in the BA operations department and an achievement letter in 4 months. • Skills used: Python, SQL, Agile, Stakeholder Management, Use Case Analysis, BRD, Problem Solving
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+**George Brown College (2022-2023)**, Postgraduate in Information Systems Business Analysis, Computer Science
+- Dean's Honour List (2022, 2023)
+- GPA: 3.73/4.0
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**George Brown College (2021-2022)**, Postgraduate in Applied Artificial Intelligence, Computer Science
+- Dean's Honour List (2021, 2022)
+- GPA: 3.81/4.0
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Career Essentials in Data Analysis by Microsoft and LinkedIn
+- Data Analytics by LinkedIn
+- Cavas Artist
+- Community Volunteer, Independent Contractor for healthcare
+- Student Volunteer, The Earth Saviour's Foundation
