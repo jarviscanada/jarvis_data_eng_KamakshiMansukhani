@@ -1,14 +1,13 @@
 # Preferred name (Characters only)
-name: "John Smith"
+name: "Kamakshi Mansukhani"
 # Your GitHub repo root URL
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
-
+summary: I am a seasoned IT professional with a Bachelor's degree in Computer Science and over six years of experience in the industry. Throughout my career, I have successfully completed more than 20 software development projects and served as a Systems Engineer at Infosys, where I honed my ability to collaborate with dedicated project managers, problem solvers, and junior staff to meet and exceed project requirements.
+I pride myself on being a problem solver with a keen focus on achieving excellence through effective teamwork and communication. My technical expertise spans across database management, and I consistently challenge myself to stay abreast of emerging technologies. In addition to my technical skills, I have earned postgraduate certificates in Applied Artificial Intelligence and Business Analytics, further enhancing my analytical and business acumen. My experience as a Business Systems Analyst at various esteemed organizations has equipped me with a comprehensive understanding of both technical and business domains.
 # Group your skills by level.
-# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
