@@ -24,7 +24,7 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani",
   "highlighted_projects": [
     {
-      "description": "•Conducted in-depth analysis to derive meaningful insights using existing organizational data, employing advanced data visualization tools, resulting in a 26% improvement in strategic decision accuracy. •Used a collaborative and innovative approach in utilizing data analysis, data reporting, and data visualization techniques using Tableau, Power BI and SQL Queries to enhance user experiences and drew informed conclusions, facilitating a 20% increase in project efficiency and timely decision making.",
+      "description": "Conducted in-depth analysis to derive meaningful insights using existing organizational data, employing advanced data visualization tools, resulting in a 26% improvement in strategic decision accuracy. Used a collaborative and innovative approach in utilizing data analysis, data reporting, and data visualization techniques using Tableau, Power BI and SQL Queries to enhance user experiences and drew informed conclusions, facilitating a 20% increase in project efficiency and timely decision making.",
       "name": "Product Development Exchange Capstone Project"
     },
     {
@@ -32,13 +32,13 @@
       "name": "Covid 19 data analysis using big data techniques"
     },
     {
-      "description": "Predicted weather using image classification models along with neural network classification. • On the basis of data in the previous 10 years, the weather in the upcoming 10 years was predicted. • The purpose of this project was to create a model that could determine the weather complications and if any major setbacks will be seen in the near future. • Technologies and Models used- MLP, GRU, LSTM, Neural networks, Numpy, TensorFlow, Keras",
+      "description": "Predicted weather using image classification models along with neural network classification. On the basis of data in the previous 10 years, the weather in the upcoming 10 years was predicted. The purpose of this project was to create a model that could determine the weather complications and if any major setbacks will be seen in the near future using Neural networks, Numpy, TensorFlow and Keras",
       "name": "Weather Prediction Analysis"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "The Linux Cluster Monitoring Agent (LCMA) is designed to monitor and log resource usage across a cluster of Linux nodes. This system collects hardware and usage data, such as CPU, memory, and disk statistics, and stores it in a PostgreSQL database running in a Docker container. The primary users of this system are system administrators and the Linux Cluster Administration (LCA) team, who can leverage this data to analyze system performance and make informed decisions about resource allocation. The technologies used in this project include Bash scripting, Docker, PostgreSQL, and Git.",
+      "description": "The Linux Cluster Monitoring Agent is designed to monitor and log resource usage across a cluster of Linux nodes. This system collects hardware and usage data, such as CPU, memory, and disk statistics, and stores it in a PostgreSQL database running in a Docker container. The primary users of this system are system administrators and the Linux Cluster Administration team, who can leverage this data to analyze system performance and make informed decisions about resource allocation. The technologies used in this project include Bash scripting, Docker, PostgreSQL, and Git.",
       "git_url": "https://github.com/jarviscanada/jarvis_data_eng_KamakshiMansukhani/tree/main/linux_sql",
       "name": "Cluster Monitor"
     }
@@ -47,16 +47,16 @@
   "others": [
     {
       "bullets": [
-        "Career Essentials in Data Analysis by Microsoft and LinkedIn",
-        "Data Analytics by LinkedIn"
+        "Certified in - Career Essentials in Data Analysis by Microsoft and LinkedIn",
+        "Professionally certified in - Data Analytics by LinkedIn"
       ],
       "title": "Certificates"
     },
     {
       "bullets": [
-        "Canvas Artist",
-        "Community Volunteer, Independent Contractor for healthcare",
-        "Student Volunteer, The Earth Saviour's Foundation"
+        "I am also a part time Canvas Artist",
+        "Community Volunteer, Independent Contractor for healthcare - Organized food donation drives for the poor and elderly.",
+        "Student Volunteer, The Earth Saviour's Foundation - Assisted disabled senior citizens with essential healthcare support and provided ongoing technical assistance to enhance their quality of life."
       ],
       "title": "Activities/Hobbies"
     }
@@ -70,40 +70,40 @@
     },
     {
       "company": "Telus International",
-      "description": "• Developed detailed functional specifications, ensuring alignment with project objectives. • Implemented SQL queries resulting in a 30% reduction in data processing time for various projects. • Identified and mitigated risks and issues, acting as a subject matter expert for daily operations, reducing project delays by 20%. • Collaborated with cross-functional teams to drive project success, including project managers, developers, and stakeholders. • Translated complex business requirements into detailed functional design specifications by acting as a bridge between business users and technology teams. • Skills used: SQL, Agile, Java, Python, MS Excel, ETL, Stakeholder Analysis, Use Case Analysis, Requirement Analysis",
+      "description": "I developed detailed functional specifications, ensuring alignment with project objectives by implementing SQL queries resulting in a 30% reduction in data processing time for various projects. I identified and mitigated risks and issues, acting as a subject matter expert for daily operations, reducing project delays by 20%. Collaborated with cross-functional teams using Agile/Scrum to drive project success, including project managers, developers, and stakeholders. Translated complex business requirements into detailed functional design specifications by acting as a bridge between business users and technology teams.",
       "duration": "2023-2024",
       "title": "Media Search Analyst"
     },
     {
       "company": "Infosys",
-      "description": "• Analyzed customer requirements and technical feasibility, contributing to a 30% improvement in solution delivery time. • Provided support to the QA team, resulting in a 20% reduction in data-related defects during testing phases. • Effectively communicated technical design details to non-technical stakeholders, ensuring alignment with project requirements and knowledge is codified, monitored, tracked and managed. • Prepared and documented comprehensive Functional and Technical Design specifications following client standards and methodologies. • Achieved one of the best ratings in the BA operations department and an achievement letter in 4 months. • Skills used: Python, SQL, Agile, Stakeholder Management, Use Case Analysis, BRD, Problem Solving",
+      "description": "Analyzed customer requirements and technical feasibility, contributing to a 30% improvement in solution delivery time. Provided support to the QA team, resulting in a 20% reduction in data-related defects during testing phases. Effectively communicated technical design details to non-technical stakeholders, ensuring alignment with project requirements and knowledge is codified, monitored, tracked and managed. Prepared and documented comprehensive Functional and Technical Design specifications following client standards and methodologies. Achieved one of the best ratings in the BA operations department and an achievement letter in 4 months.",
       "duration": "Mar 2021- Sep 2021",
       "title": "Business Systems Analyst"
     }
   ],
   "skills": {
     "competent": [
-      "SQL",
-      "Python",
-      "Agile/ Scrum",
-      "Tableau",
-      "Stakeholder Analysis"
-    ],
-    "familiar": [
+      "Linux/Bash",
       "Java",
-      "Deep Learning",
-      "Machine Learning",
       "Data Modelling",
       "Business Intelligence",
+      "Git"
+    ],
+    "familiar": [
+      "Hadoop",
+      "Deep Learning",
+      "Machine Learning",
+      "Azure databricks",
       "Power BI"
     ],
     "proficient": [
       "Python",
-      "Linux/Bash",
+      "Data Modelling",
       "RDBMS/SQL",
       "Agile/Scrum",
-      "Tableau"
+      "Tableau",
+      "Stakeholder Analysis"
     ]
   },
-  "summary": "I am a seasoned IT professional with a Bachelor's degree in Computer Science and over six years of experience in the industry. Throughout my career, I have successfully completed more than 20 software development projects and served as a Systems Engineer at Infosys, where I honed my ability to collaborate with dedicated project managers, problem solvers, and junior staff to meet and exceed project requirements.\nI pride myself on being a problem solver with a keen focus on achieving excellence through effective teamwork and communication. My technical expertise spans across database management, and I consistently challenge myself to stay abreast of emerging technologies. In addition to my technical skills, I have earned postgraduate certificates in Applied Artificial Intelligence and Business Analytics, further enhancing my analytical and business acumen. My experience as a Business Systems Analyst at various esteemed organizations has equipped me with a comprehensive understanding of both technical and business domains."
+  "summary": "I am a seasoned IT professional with a Bachelor's degree in Computer Science and over three years of experience in the industry. Throughout my career, I served as a Systems Engineer at Infosys, where I honed my ability to collaborate with dedicated project managers, problem solvers, and junior staff to meet and exceed project requirements.\nI pride myself on being a problem solver with a keen focus on achieving excellence through effective teamwork and communication. My technical expertise spans across database management, and I consistently challenge myself to stay abreast of emerging technologies. In addition to my technical skills, I have earned postgraduate certificates in Applied Artificial Intelligence and Business Analytics, further enhancing my analytical and business acumen. My experience as a Business Systems Analyst at various esteemed organizations has equipped me with a comprehensive understanding of both technical and business domains."
 }
