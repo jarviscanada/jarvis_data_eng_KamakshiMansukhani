@@ -38,6 +38,8 @@ Once the scripts were developed, I conducted thorough testing to ensure they fun
 
 # Architecture
 The architecture consists of three Linux hosts, each running a monitoring agent that collects data and sends it to a central PostgreSQL database hosted in a Docker container. 
+![architecture](assets/architecture.PNG)![image](https://github.com/user-attachments/assets/416c5919-5242-423c-9c50-52c4e06b4704)
+
 
 # Scripts
 - Used to manage the PostgreSQL Docker container.
