@@ -108,10 +108,10 @@ host_usage Table
 # Test
 Each script was tested to ensure it functions correctly:
 
-- psql_docker.sh: Created a PostgreSQL instance and verified connectivity. The instance was stopped and restarted to ensure proper functionality.
-host_info.sh: Verified that hardware information was accurately inserted into the database.
-- host_usage.sh: Confirmed that system usage data was correctly logged in the database every minute. Test data was manually inserted to check consistency.
-- ddl.sql: Ensured that running the script on a fresh database created the necessary tables without errors.
+- ```psql_docker.sh```: Created a PostgreSQL instance and verified connectivity. The instance was stopped and restarted to ensure proper functionality.
+- ```host_info.sh```: Verified that hardware information was accurately inserted into the database.
+- ```host_usage.sh```: Confirmed that system usage data was correctly logged in the database every minute. Test data was manually inserted to check consistency.
+- ```ddl.sql```: Ensured that running the script on a fresh database created the necessary tables without errors.
 
 # Deployment
 The project is deployed using Docker for database management and Git for version control. The crontab scheduler ensures continuous data collection by running the host_usage.sh script every minute.
