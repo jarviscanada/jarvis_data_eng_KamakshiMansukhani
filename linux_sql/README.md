@@ -40,40 +40,42 @@ Once the scripts were developed, I conducted thorough testing to ensure they fun
 The architecture consists of three Linux hosts, each running a monitoring agent that collects data and sends it to a central PostgreSQL database hosted in a Docker container. 
 
 # Scripts
-- psql_docker.sh
+- Used to manage the PostgreSQL Docker container.
 
-Used to manage the PostgreSQL Docker container.
+```psql_docker.sh```
 
 - Create a new container
 
-bash psql_docker.sh create <db_username> <db_password>
+```bash psql_docker.sh create <db_username> <db_password>```
 
 - Start or stop an existing container
 
-bash psql_docker.sh {start|stop}
+```bash psql_docker.sh {start|stop}```
 
-- host_info.sh
+- Collects hardware information and inserts it into the host_info table.
 
-Collects hardware information and inserts it into the host_info table.
+```host_info.sh```
 
 bash host_info.sh "localhost" 5432 "host_agent" <db_username> <db_password>
-- host_usage.sh
 
-Runs every minute to collect and insert system usage data into the host_usage table.
+- Runs every minute to collect and insert system usage data into the host_usage table.
+
+```host_usage.sh```
 
 bash host_usage.sh "localhost" 5432 "host_agent" <db_username> <db_password>
-- crontab
 
-Schedules the host_usage.sh script to run every minute.
+- Schedules the host_usage.sh script to run every minute.
+
+```crontab```
 
 - Edit crontab
 
-crontab -e
+```crontab -e```
 
 - Add the following line
 
-* * * * * bash <absolute path to host_usage.sh> "localhost" 5432 "host_agent" <db_username> <db_password> &> /tmp/host_usage.log
-queries.sql
+```* * * * * bash <absolute path to host_usage.sh> "localhost" 5432 "host_agent" <db_username> <db_password> &> /tmp/host_usage.log
+queries.sql```
 
 Contains SQL queries to resolve specific business problems, such as analyzing average CPU usage, identifying memory bottlenecks, and monitoring disk space trends.
 
